@@ -1,0 +1,387 @@
+body {
+	background-color: #eeeeee;
+}
+.header {
+	background-color: #ffbb76;
+	height: 500px;
+	width: 100%;
+}
+#div-in-gerb {
+	margin-top: 10px;
+	margin-bottom: 10px;
+	margin-left: auto;
+	margin-right: auto;
+}
+#gerb {
+	margin-left: 20px;
+}
+.item {
+	background-color: #2b314d;
+	color: #121229;
+}
+#dropdown {
+	background-color: #ffbb76;
+}
+#dropdownMenuButton1 {
+	font-size: 20px;
+	color: #121229;
+}
+.section-1 {
+	background-color: #eeeeee;
+}
+.section-3 {
+	background-color: #eeeeee;
+	height: 1000px;
+}
+#line {
+	height: 80px;
+	background-color: white;
+}
+#zag {
+	font-size: 50px;
+}
+#news-block {
+	margin-bottom: 100px;
+}
+#slides {
+	width: 90%;
+	margin-left: auto; 
+	margin-right: auto;
+	margin-top: 80px;
+	margin-bottom: 100px;
+}
+#news-cards {
+	width: 95%;
+	margin-top: 80px;
+	margin-bottom: 100px;
+	border: 2px solid #ffbb76;
+	border-radius: 5%;
+}
+#news {
+	width: 90%;
+	margin-left: auto;
+	margin-right: auto;
+	margin-top: 10px;
+	margin-bottom: 10px;
+}
+#news-button {
+	text-align: center;
+	margin-top: 10px;
+	margin-bottom: 20px;
+}
+#item-1 {
+	background-color: #121229;	
+}
+#table-1 {
+	margin-top: 80px;
+	margin-left: auto;
+	margin-right: auto;
+	width: 80%;
+}
+#section-2 {
+background-image: linear-gradient(rgba(0, 0, 0, 0.7), rgba(0, 0, 0, 0.7)), url("../images/kolyski01.jpg");
+background-position: center center;
+background-repeat: repeat-y;
+background-repeat: repeat-x;
+background-attachment: fixed;
+width: 100%;
+height: 550px;
+}
+#form-button {
+	text-align: center;
+	margin-top: 40px;
+	margin-bottom: 20px;
+}
+#item-7 {
+	width: 40%;
+	background-color: white;	
+}
+#history {
+	margin-top: 80px;
+	margin-left: auto;
+	margin-right: auto;
+	width: 80%;
+}
+#obzac {
+	text-indent: 30px;
+	margin-left: auto;
+	margin-right: auto;
+	text-align: justify;
+	width: 77%;
+}
+#structure-block {
+	margin-top: 70px;
+}
+#structure-block-1 {
+	width: 95%;
+	margin-left: auto;
+	margin-right: auto;
+	margin-top: 80px;
+	background-color: white;
+	border: 2px solid #ffbb76;
+	border-radius: 3%;
+}
+#structure-element {
+	width: 30%;
+	margin-top: 10px;
+	margin-left: auto;
+	margin-right: auto;
+	background-color: white;
+	border: 2px solid #ffbb76;
+	border-radius: 3%;
+}
+#structure-element-1 {
+	width: 23%;
+	margin-top: 10px;
+	margin-left: auto;
+	margin-right: auto;
+	background-color: white;
+	border: 2px solid #ffbb76;
+	border-radius: 3%;
+}
+#structure-element-2 {
+	width: 95%;
+	margin-top: 10px;
+	margin-left: auto;
+	margin-right: auto;
+	background-color: white;
+}
+#card {
+	width: 90%;
+	margin-left: auto;
+	margin-right: auto;
+	margin-bottom: 20px;
+}
+#card-1 {
+	width: 23%;
+	margin-left: auto;
+	margin-right: auto;
+	margin-bottom: 20px;
+}
+#card-2 {
+	width: 30%;
+	margin-left: auto;
+	margin-right: auto;
+	margin-bottom: 20px;
+}
+#cell-block {
+	border: 2px solid #ffbb76;
+	border-radius: 3%;		
+	width: 90%;
+	margin-left: auto;
+	margin-right: auto;
+	margin-top: 80px;
+}
+#partners-block {
+	margin-top: 80px;
+}
+#partners-button {
+	text-align: center;
+	margin-top: 10px;
+	margin-bottom: 20px;
+}
+#item-2 {
+	width: 95%;
+	background-color: #121229;	
+}
+#item-3 {
+	width: 55%;
+	background-color: #121229;	
+}
+#otchet-block {
+	margin-top: 80px;
+}
+#item-4 {
+	width: 80%;
+	background-color: #121229;	
+	margin-top: 10px;
+	margin-bottom: 20px;
+}
+#otchet {
+	margin-top: 80px;
+	margin-left: auto;
+	margin-right: auto;
+	width: 80%;
+}
+#obzac-1 {
+	text-indent: 30px;
+	margin-left: auto;
+	margin-right: auto;
+	text-align: justify;
+	width: 77%;
+}
+#work-to-pic {
+	width: 100%;
+	margin-top: 80px;
+	margin-bottom: 100px;
+	text-align: center;
+}
+#programms-zag {
+	font-size: 25px; 
+	font-weight: bold; 
+	margin-bottom: 50px; 
+}
+#programms-block {
+	width: 95%;
+	margin-top: 80px;
+	margin-left: auto;
+	margin-right: auto;
+}
+#programms-table {
+	width: 95%;
+	margin-left: auto;
+	margin-right: auto;
+}
+#download-button {
+	text-align: center;
+	margin-top: 10px;
+	margin-bottom: 20px;
+}
+#item-5 {
+	width: 33%;
+	background-color: #100e3b;	
+}
+#health-block {
+	width: 95%;
+	margin-top: 80px;
+	margin-left: auto;
+	margin-right: auto;
+}
+#health-button {
+	text-align: center;
+	margin-top: 20px;
+	margin-bottom: 20px;
+}
+#item-6 {
+	width: 93%;
+	background-color: #100e3b;	
+}
+#logo-voi {
+	margin-top: 30px;
+}
+#health-block-1 {
+	margin-top: 30px;
+	border-bottom: 3px solid #ffbb76;
+}
+#health-slider {
+	margin-top: 30px;
+}
+#health-table {
+	margin-top: 50px;
+}
+#trud-block {
+	width: 95%;
+	margin-top: 80px;
+	margin-left: auto;
+	margin-right: auto;
+}
+#trud-reab-1 {
+	margin-top: 30px;
+	border-bottom: 3px solid #ffbb76;	
+}
+#trud-reab-2 {
+	margin-top: 30px;
+}
+#health-pic-1 {
+	width: 10%;
+}
+#fisic-block {
+	width: 95%;
+	margin-top: 80px;
+	margin-left: auto;
+	margin-right: auto;
+}
+#fisic-block-1 {
+	
+}
+#health-pic-2 {
+	width: 25%;
+}
+#kultur-block {
+	width: 95%;
+	margin-top: 80px;
+	margin-left: auto;
+	margin-right: auto;
+}
+#kultur-block-1 {
+	margin-top: 50px;
+	margin-left: auto;
+	margin-right: auto;
+}
+#kultur-block-2 {
+	margin-bottom: 50px;
+}
+#health-pic {
+	width: 50%;
+}
+#technic-block {
+	width: 95%;
+	margin-top: 80px;
+	margin-left: auto;
+	margin-right: auto;	
+}
+#news-block {
+	width: 95%;
+	margin-top: 80px;
+	margin-left: auto;
+	margin-right: auto;
+}
+#news-1 {
+	width: 90%;
+	margin-left: auto;
+	margin-right: auto;
+	margin-top: 30px;
+	margin-bottom: 30px;
+	text-align: justify;
+}
+#news-slides {
+	width: 40%;
+	margin-left: auto;
+	margin-right: auto;
+}
+#reg-block {
+	width: 95%;
+	margin-top: 80px;
+	margin-left: auto;
+	margin-right: auto;
+}
+#form-reg {
+	width: 70%;
+	margin-top: 50px;
+	margin-left: auto;
+	margin-right: auto;
+	margin-bottom: 50px;
+}
+#reg-button {
+	width: 100%;
+	background-color: #100e3b;
+	color: white;
+}
+footer {
+  background-color: #ffbb76;
+}
+.soc {
+  width: 50px;
+  height: 50px;
+  margin-right: 13px;
+  margin-top: 35px;
+}
+.soc-1 {
+  width: 60px;
+  height: 53px;
+  margin-top: 35px;
+}
+.soc-2 {
+  width: 80px;
+  height: 80px;
+  margin-top: 20px;
+}
+#footer-camomille {
+  color: #121229;
+}
+#footer-camomille-1 {
+  color: #121229;
+}
+.all-sot {
+  border-radius: 1px solid white;
+}
